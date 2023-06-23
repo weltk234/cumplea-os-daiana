@@ -31,16 +31,16 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #3396ff;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #3396ff;
 	}
 	100%{
 		background-color: #FFDAB9;
@@ -1100,25 +1100,25 @@ audio {
 	display: none;
 }
 #b1,#b11 {
-	background-image: url('b1.png');
+	background-image: url('b2.png');
 }
 #b2,#b22 {
 	background-image: url('b2.png');
 }
 #b3,#b33 {
-	background-image: url('b3.png');
+	background-image: url('b2.png');
 }
 #b4,#b44{
-	background-image: url('b4.png');
+	background-image: url('b2.png');
 }
 #b5,#b55{
-	background-image: url('b5.png');
+	background-image: url('b2.png');
 }
 #b6,#b66{
-	background-image: url('b6.png');
+	background-image: url('b2.png');
 }
 #b7,#b77{
-	background-image: url('b7.png');
+	background-image: url('b2.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;

@@ -5,15 +5,15 @@ var config = {
     texts: [
         "te amo",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "eres el amor de mi vida",  // 同上...
-        "simepre te amare",
-        "hoy mañana y siempre",
+        "Siempre te amare",
+        "Hoy mañana y siempre",
         "doy las gracias  a dios por que ",
         "te tengo a mi lado",
         "me haces el hombre mas afortunado",
         "Del Mundo",
         "Te amo mas que nada",
-        "Para toda la visa",
-        "Atentamente Tu esposo ",
+        "Para toda la vidaa",
+        "Atentamente Tu Cuchi que te ama",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,7 +30,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Feliz cumpleños Dayana ",
+        turn_on: "Feliz cumpleños Daiana ",
         play: "Eres lo mejor de mi vida",
         bannar_coming: "La Mejor persona que conozco",
         balloons_flying: "Con el mejor corazon",
