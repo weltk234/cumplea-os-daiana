@@ -1270,6 +1270,14 @@ audio {
 	display: none;
 }
 
+#story{
+	background-image: url(bode-de-yonder.jpg) ;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+
+}
+
 .cake-cover {
 	margin-top: 50px;
 }

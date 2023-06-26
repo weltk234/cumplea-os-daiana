@@ -13,7 +13,7 @@ var config = {
         "Del Mundo",
         "Te amo mas que nada",
         "Para toda la vidaa",
-        "Atentamente Tu Cuchi que te ama",
+        "Atentamente :Tu Cuchi que te ama",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "Te Amo",
         light_candle: "Siempre te amare",
         wish_message: "y lo mas importante",
-        story: "Un mensaje para ti ",
+        story: "",
     }
 };
