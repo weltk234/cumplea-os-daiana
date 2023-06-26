@@ -5,7 +5,7 @@
 
 
 body {
-	/*background-color: #FFDAB9;	*/
+	/*background-color: #3396ff;	*/
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -43,78 +43,78 @@ body {
 		background-color: #3396ff;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #3396ff;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #3396ff;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #3396ff;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #3396ff;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #3396ff;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #3396ff;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #3396ff;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #3396ff;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #2868ad;
 	}
 }
 
@@ -1278,10 +1278,10 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
+	font-family: Mutually;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
+	color:#000;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
@@ -1293,7 +1293,7 @@ audio {
 	max-height: 200px;
 	margin: 5px auto;
 	border-radius: 50%;
-	box-shadow: #aaa 0 0 4px;
+	
 }
 
 .btn-primary {
