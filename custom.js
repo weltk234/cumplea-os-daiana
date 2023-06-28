@@ -23,3 +23,37 @@ $(function () {
         }
     }
 });
+
+
+var slides = document.querySelectorAll('.slide');
+var currentSlide = 0;
+var intervalId;
+
+function showSlide() {
+  for (var i = 0; i < slides.length; i++) {
+    slides[i].classList.remove('active');
+  }
+
+  slides[currentSlide].classList.add('active');
+}
+
+function showNextSlide() {
+  currentSlide++;
+
+  if (currentSlide >= slides.length) {
+    currentSlide = 0;
+  }
+
+  showSlide();
+}
+
+function startSlideshow() {
+  currentSlide = 0;
+  showSlide();
+
+  intervalId = setInterval(showNextSlide, 4000);
+}
+
+function stopSlideshow() {
+  clearInterval(intervalId);
+}

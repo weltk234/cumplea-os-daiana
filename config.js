@@ -30,7 +30,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Feliz cumpleños Daiana ",
+        turn_on: "",
         play: "Eres lo mejor de mi vida",
         bannar_coming: "La Mejor persona que conozco",
         balloons_flying: "Con el mejor corazon",
